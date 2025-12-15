@@ -64,6 +64,13 @@ button:hover{
     font-family: 'Times New Roman', Times, serif;
 }
 
+.organization-list{
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 1rem;
+}
+
 /*---------- IMAGE GRID STYLING ----------*/
 .image-grid {
     display: grid;
