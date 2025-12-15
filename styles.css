@@ -58,6 +58,12 @@ button:hover{
     margin-top: 10px;
 }
 
+.bibliogtext{
+    font-size: 0.9rem;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 /*---------- IMAGE GRID STYLING ----------*/
 .image-grid {
     display: grid;
